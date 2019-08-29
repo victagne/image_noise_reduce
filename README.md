@@ -1,2 +1,2 @@
 # image_noise_reduce
-A DFS algorithm for reducing noise in image
+Provide a DFS algorithm for reducing noise in image with an example.
